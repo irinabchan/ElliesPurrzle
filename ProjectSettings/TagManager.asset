@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Tap
+  - LostToy
+  - Spawn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - Tap
+  - Background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2513455515
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Lost Toy
+    uniqueID: 2794426615
+    locked: 0
+  - name: Tapping Objects
+    uniqueID: 91490167
+    locked: 0
+  - name: Player
+    uniqueID: 2536518429
+    locked: 0
